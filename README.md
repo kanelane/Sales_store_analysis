@@ -4,7 +4,7 @@
 A retail store chain tracks daily sales transactions, including order details, customer info,product categories, order times, and order status. 
 The business wants to optimize operations, improve customer experience, and increase proofitability using data-driven decisions.
 
-##Problem Statement
+## Problem Statement
 The store does not have a clear idea about:
 1. Which products sell the most,
 2. Customers preferemce,
